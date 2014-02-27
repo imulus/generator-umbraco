@@ -93,7 +93,7 @@ module.exports = function(grunt) {
                     open: true              //Auto open the browser to our server we fired up
                 }
             }
-        }
+        },
 
         //Assembly Info - we can get DLL version to match
         //TODO: Configure properly (As Default from npm proj page)
